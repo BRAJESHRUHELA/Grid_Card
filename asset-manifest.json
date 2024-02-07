@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Grid_Card/static/css/main.dc4d6ff2.css",
+    "main.js": "/Grid_Card/static/js/main.9f51853c.js",
+    "static/js/592.91eb5849.chunk.js": "/Grid_Card/static/js/592.91eb5849.chunk.js",
+    "index.html": "/Grid_Card/index.html",
+    "main.dc4d6ff2.css.map": "/Grid_Card/static/css/main.dc4d6ff2.css.map",
+    "main.9f51853c.js.map": "/Grid_Card/static/js/main.9f51853c.js.map",
+    "592.91eb5849.chunk.js.map": "/Grid_Card/static/js/592.91eb5849.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.9f51853c.js"
+  ]
+}
